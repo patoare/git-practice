@@ -1,4 +1,4 @@
 Name: Patricio Arellano
-Age: 30 YO
-Favourite color: Green
+Age: 40 YO
+Favourite color: re
 
